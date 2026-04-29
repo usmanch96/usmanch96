@@ -65,9 +65,8 @@
 
 <div align="center">
 
-[![quotex-historical-data](https://github-readme-stats.vercel.app/api/pin/?username=usmanch96&repo=quotex-historical-data&theme=tokyonight&border_color=00d9ff&title_color=00d9ff&icon_color=00d9ff&hide_border=false)](https://github.com/usmanch96/quotex-historical-data)
-&nbsp;
-[![binary-options-tradingview-script](https://github-readme-stats.vercel.app/api/pin/?username=usmanch96&repo=binary-options-tradingview-script&theme=tokyonight&border_color=00d9ff&title_color=00d9ff&icon_color=00d9ff&hide_border=false)](https://github.com/usmanch96/binary-options-tradingview-script)
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=usmanch96&repo=quotex-historical-data&theme=tokyonight&border_color=00d9ff&title_color=00d9ff&icon_color=00d9ff&hide_border=false&description_lines_count=2" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=usmanch96&repo=binary-options-tradingview-script&theme=tokyonight&border_color=00d9ff&title_color=00d9ff&icon_color=00d9ff&hide_border=false&description_lines_count=2" width="49%"/>
 
 </div>
 
@@ -77,8 +76,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=usmanch96&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00d9ff&title_color=00d9ff&icon_color=00d9ff&hide_border=false" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanch96&layout=compact&theme=tokyonight&border_color=00d9ff&title_color=00d9ff&hide_border=false" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=usmanch96&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00d9ff&title_color=00d9ff&icon_color=00d9ff&hide_border=false" height="180" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanch96&layout=compact&theme=tokyonight&border_color=00d9ff&title_color=00d9ff&hide_border=false" height="180" width="49%"/>
 
 <br/><br/>
 
