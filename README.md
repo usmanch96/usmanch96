@@ -76,11 +76,9 @@
 
 <div align="center">
 
-<img align="left"  src="https://github-readme-stats.vercel.app/api?username=usmanch96&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00d9ff&title_color=00d9ff&icon_color=00d9ff&hide_border=false" width="48%"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanch96&layout=donut&theme=tokyonight&border_color=00d9ff&title_color=00d9ff&hide_border=false" width="38%"/>
-<div style="clear:both;"></div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=usmanch96&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00d9ff&title_color=00d9ff&icon_color=00d9ff&hide_border=false)
 
-<br/><br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usmanch96&layout=compact&theme=tokyonight&border_color=00d9ff&title_color=00d9ff&hide_border=false)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=usmanch96&theme=tokyonight&border=00D9FF&ring=00D9FF&fire=FF6F00&currStreakLabel=00D9FF&hide_border=false)](https://git.io/streak-stats)
 
